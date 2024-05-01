@@ -416,81 +416,6 @@ https://testfunctionlive.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mp
 
 
 
-<=================== Entertainment & Lifestyle =============================>
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-title="Entertainment & LifeStyle",AXN
-https://testfunctionlive.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
-https://testfunctionlive.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Lifetime - [Channel 167].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="Entertainment & LifeStyle",Lifetime
-https://testfunctionlive.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
-
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="OK TV - [Channel 95].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Entertainment & LifeStyle",OK TV
-https://testfunctionlive.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Okezone TV - [Channel 90].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Okezone_%282007%29.png" group-title="Entertainment & LifeStyle",OkZoneTV
-https://testfunctionlive.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="TV5Monde" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="Entertainment & LifeStyle",TV5 Monde
-https://testfunctionlive.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="Entertainment & LifeStyle" tvg-id="Arirang - [Channel 351].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
-https://testfunctionlive.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Entertainment & LifeStyle" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/91/DEBA100000404_20201208T050244.png",Travelxp
-https://travelxp-travelxp-1-gb.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i0.wp.com/alternativeadverts.com/wp-content/uploads/2023/09/bbc-lifestyle.png" group-title="Entertainment & LifeStyle",BBC Lifestyle
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71120
-
-#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Entertainment & LifeStyle",Asian Food Network
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191842
-
-#EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
-http://mytv-extra.com:80/t12mgxyb335/9832948789/191944
-
-#EXTINF:-1 tvg-id="TLCSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="Entertainment & LifeStyle",TLC
-http://myteve.online:8080/stadnik2/7082341272/165086
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="FoodNetworkAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/492px-Food_Network_New_Logo.png" group-title="Entertainment & LifeStyle",Food Network
-#http://cord-cutter.net:8080/live/95549031/69361122/7323.ts
-http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71038
-
-#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Cooking_Channel_Canada.png/1200px-Cooking_Channel_Canada.png" group-title="Entertainment & LifeStyle",Cooking Channel
-http://cord-cutter.net:8080/live/95549031/69361122/9229.ts
-
-
-
-
 
 <============================ Sports ========================>
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -632,6 +557,132 @@ https://testfunctionlive.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="China",Anhui TV
 https://testfunctionlive.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+
+
+
+
+#EXTINF:0 tvg-country="MO" tvg-logo="https://i.imgur.com/59lAsao.png" group-title="China",澳門-MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="MO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png" group-title="China",澳門綜藝
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Blue 美剧 (360p) [Not 24/7]
+http://210.210.155.35/dr9445/h/h16/02.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/zagVLQH.png" group-title="CHINA",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu15
+http://epg.112114.xyz/douyu/8770422?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu19
+http://epg.112114.xyz/douyu/747764?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu20
+http://epg.112114.xyz/douyu/52787?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu24
+http://epg.112114.xyz/douyu/36337?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu8
+http://epg.112114.xyz/douyu/4332?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu44
+http://epg.112114.xyz/douyu/323876?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu28
+http://epg.112114.xyz/douyu/263824?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu9
+http://epg.112114.xyz/douyu/6140589?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",douyu25
+http://epg.112114.xyz/douyu/8814650?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",刘德华
+http://epg.112114.xyz/douyu/2516864?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",唯心電視 (480p)
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",宇哥电影
+http://epg.112114.xyz/douyu/413573?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",张家界2台 (240p) [Not 24/7]
+http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",忍者神龟 (480p)
+http://www.alibabapictures.com/movies/shenggui/poyingerchu.mp4?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China",新泰乡村党建
+http://live.xtgdw.cn:1935/live/xtxc/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",新泰影視頻道 (480p) [Not 24/7]
+http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China",新泰综合频道
+http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",林正英
+http://epg.112114.xyz/douyu/218859?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",欧美大片1
+http://epg.112114.xyz/douyu/20415?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",欧美大片2
+http://epg.112114.xyz/douyu/2793084?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",欧美大片3
+http://epg.112114.xyz/douyu/9249162?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",武进新闻 (576p) [Not 24/7]
+https://live.wjyanghu.com/live/CH1.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China",江津新闻综合
+http://222.179.155.21:1935/ch1.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",江苏 Ⅰ 连云港公共 (480p) [Not 24/7]
+https://live.lyg1.com/ggpd/sd/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",江苏 Ⅰ 连云港综合 (480p) [Not 24/7]
+https://live.lyg1.com/zhpd/sd/live.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/mzqA5YX.png" group-title="CHINA",深圳卫视 (1080p)
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",漳州新闻综合 (720p) [Not 24/7]
+https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",福州广播电视台都市生活频道 (FZTV-3) (1080p)
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",福州电视台少儿频道 (FZTV-少儿) (1080p)
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",粤语电影2
+http://epg.112114.xyz/douyu/6566671?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",粤语电影3
+http://epg.112114.xyz/douyu/1226741?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",萬州影視文藝 (576p)
+http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",萬州科教頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/Cz7WPb8/800/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",贝爷影厅
+http://epg.112114.xyz/douyu/252802?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",萬州綜合頻道 (576p)
+http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?checkedby:iptvcat.com
+
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="China",靖江新闻綜合高清
+http://58.222.151.43:1935/live/xwzhpc/playlist.m3u8?checkedby:iptvcat.com
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",石景山电视台 (1080p) [Not 24/7]
+https://live.sjsrm.com/bjsjs/sd/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",萬州三峽移民 (576p)
+http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id=" " tvg-logo="http://www.dalitv.com.tw/img/LOGOn.png" group-title="China",大立電視
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",河源公共 (540p)
+https://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",河源综合 (540p)
+https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?checkedby:iptvcat.com
+
+http://live.wjyanghu.com/live/CH1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",武进生活 (576p) [Not 24/7]
+
+
 
 <=========================================== TVRI Group =========================================>
 
