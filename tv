@@ -1,16 +1,54 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Taiwan",Good 2
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Taiwan",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Taiwan",Good TV
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="SETMetro.tw" tvg-logo="https://i.imgur.com/EyIEyFc.png" group-title="Taiwan",SET Metro
+http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
+#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://i.imgur.com/mS8GQTB.png" group-title="Taiwan",SET Taiwan
+http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Taiwan",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="Taiwan",TVBS-Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Taiwan",Taiwan Plus TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="Taiwan",Genius Go Go Go
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4292608,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080
-../../ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2654208,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=1280x720
-../../ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1937408,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=960x540
-../../ap-northeast-1/ap-northeast-1/6282251407001/profile_2/chunklist.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1118208,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360
-../../ap-northeast-1/ap-northeast-1/6282251407001/profile_3/chunklist.m3u8
+#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/fEUmRST.png" group-title="Taiwan",CTi News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="Taiwan",FTV News
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="Taiwan",Global News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="Taiwan",SET iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="Taiwan",TTV News
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="Taiwan",mnews
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 tvg-id="ETMall60.tw" tvg-logo="https://i.imgur.com/jkOgbLw.png" group-title="Taiwan",ET Mall 60
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+
+
+#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",MNews Taiwan 鏡電視新聞台
+https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
+
+#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",MNews Taiwan 鏡電視新聞台
+https://4gtvfreepc-mozai.4gtv.tv/hpBnWM0gi2q7XHMpi1WxfZd9TL5-uF3sujYYjUmQnEU%3d/index.m3u8?token=9AMdK-3v2fCCSQvfNEVYsA&expires=1655368718&token1=hl0XSNlqSmdtI0EQIJVQiQ&expires1=1655368718&refer=MDg5OTVlOWEtNmI0Zi00Y2MyLWI3Y2EtMzhiMWExNDM1M2Iy&y=0
+
+
+
+
+
+
+
+
 
 
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
