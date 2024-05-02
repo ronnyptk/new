@@ -1,15 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Taiwan",Good 2
-https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw" tvg-logo="https://i.imgur.com/hkwcBM9.png" group-title="Taiwan",Beautiful Life TV
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Taiwan",Good TV
-https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="SETMetro.tw" tvg-logo="https://i.imgur.com/EyIEyFc.png" group-title="Taiwan",SET Metro
-http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-#EXTINF:-1 tvg-id="SETTaiwan.tw" tvg-logo="https://i.imgur.com/mS8GQTB.png" group-title="Taiwan",SET Taiwan
 http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
 #EXTINF:-1 tvg-id="SupremeMasterTV.tw" tvg-logo="https://i.imgur.com/kFMHayP.png" group-title="Taiwan",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
@@ -36,11 +27,6 @@ https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 
 
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",MNews Taiwan 鏡電視新聞台
-https://www.youtube.com/channel/UC4LjkybVKXCDlneVXlKAbmw/live
-
-#EXTINF:0 tvg-country="TW" tvg-logo="https://i.imgur.com/PxYhFpb.png" group-title="Taiwan",MNews Taiwan 鏡電視新聞台
-https://4gtvfreepc-mozai.4gtv.tv/hpBnWM0gi2q7XHMpi1WxfZd9TL5-uF3sujYYjUmQnEU%3d/index.m3u8?token=9AMdK-3v2fCCSQvfNEVYsA&expires=1655368718&token1=hl0XSNlqSmdtI0EQIJVQiQ&expires1=1655368718&refer=MDg5OTVlOWEtNmI0Zi00Y2MyLWI3Y2EtMzhiMWExNDM1M2Iy&y=0
 
 
 
