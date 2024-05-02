@@ -1,6 +1,18 @@
 #EXTM3U
 
 
+
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=4292608,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080
+../../ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2654208,CODECS="mp4a.40.2,avc1.64001f",RESOLUTION=1280x720
+../../ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1937408,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=960x540
+../../ap-northeast-1/ap-northeast-1/6282251407001/profile_2/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=1118208,CODECS="mp4a.40.2,avc1.4d401e",RESOLUTION=640x360
+../../ap-northeast-1/ap-northeast-1/6282251407001/profile_3/chunklist.m3u8
+
+
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
